@@ -59,6 +59,4 @@ int main() {
     bfs();
 
     printf("%d\n", dist[N - 1][M - 1]);
-
-    return 0;
 }
